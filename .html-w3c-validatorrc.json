@@ -1,0 +1,6 @@
+{
+  "urls": [],
+  "files": ["**/*.html"],
+  "ignore": [],
+  "ignoreMessages": []
+}
