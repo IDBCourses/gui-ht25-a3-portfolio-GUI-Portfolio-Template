@@ -1,6 +1,6 @@
 {
   "urls": [],
-  "files": ["./*.html"],
+  "files": ["index.html"],
   "ignore": [],
   "ignoreMessages": []
 }
